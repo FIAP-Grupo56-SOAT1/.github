@@ -5,6 +5,8 @@ Aplicações:
 Pedido:<br>
 [Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
 [infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/deploy-producao.yml)<br>
+[Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PEDIDO_FAST-EATS/actions)<br>
+
 
 
 Produção:<br>
