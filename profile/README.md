@@ -1,15 +1,15 @@
 Documentação do projeto Fasteats SOAT1 grupo56
 
-Iniciar aplicações:
+Aplicações:
 
-PEDIDO:<br>
-[INFRA_DB_FAST-EATS](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[INFRA_ECS_FAST-EATS](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/deploy-producao.yml?logo=github)<br>
+Pedido:<br>
+[Infra do baco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
+[infra da aplicação](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/deploy-producao.yml?logo=github)<br>
 
 
-PRODUCAO:<br>
-[INFRA_DB_PRODUCAO_FAST-EATS](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[INFRA_PRODUCAO_FAST-EATS](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_PRODUCAO_FAST-EATS/deploy-producao.yml?logo=github)<br>
+Produção:<br>
+[Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
+[infra da aplicação](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_PRODUCAO_FAST-EATS/deploy-producao.yml?logo=github)<br>
 
 
 <!--
