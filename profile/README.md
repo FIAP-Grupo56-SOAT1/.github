@@ -3,7 +3,7 @@ Documentação do projeto Fasteats SOAT1 grupo56
 Aplicações:
 
 Pedido:<br>
-[Infra do baco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
+[Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
 [infra da aplicação](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/deploy-producao.yml?logo=github)<br>
 
 
