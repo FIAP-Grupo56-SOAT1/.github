@@ -2,11 +2,11 @@ Documentação do projeto Fasteats SOAT1 grupo56
 
 Iniciar aplicações:
 
-BANCO DE DADOS:
-Pedido: https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS
+BANCO DE DADOS:<br>
+Pedido: https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS<br>
 
-APLICAÇÃO:
-Pedido: https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/actions
+APLICAÇÃO:<br><br>
+Pedido: https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/actions<br>
 
 <!--
 
