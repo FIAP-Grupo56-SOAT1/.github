@@ -4,12 +4,12 @@ Aplicações:
 
 Pedido:<br>
 [Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[infra da aplicação](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/deploy-producao.yml?logo=github)<br>
+[infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/deploy-producao.yml)<br>
 
 
 Produção:<br>
 [Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[infra da aplicação](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_PRODUCAO_FAST-EATS/deploy-producao.yml?logo=github)<br>
+[infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
 
 
 <!--
