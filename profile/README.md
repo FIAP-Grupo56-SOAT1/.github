@@ -9,6 +9,7 @@ Pedido: [INFRA_DB_FAST-EATS](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST
 APLICAÇÃO:
 
 Pedido: [INFRA_ECS_FAST-EATS](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/deploy-producao.yml?logo=github)
+Producao: [INFRA_PRODUCAO_FAST-EATS](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_PRODUCAO_FAST-EATS/deploy-producao.yml?logo=github)
 
 
 <!--
