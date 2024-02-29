@@ -7,7 +7,8 @@ Pedido: [INFRA_DB_FAST-EATS](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST
 
 <br>
 APLICAÇÃO:<br>
-Pedido: INFRA_ECS_FAST-EATS https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/actions/workflows/deploy-producao.yml
+Pedido: ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/deploy-producao.yml?logo=github)
+
 
 
 <!--
