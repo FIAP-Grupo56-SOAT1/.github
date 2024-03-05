@@ -7,7 +7,10 @@ Pedido:<br>
 [infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
 [Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PEDIDO_FAST-EATS/actions)<br>
 
-
+Pagamento:<br>
+[Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
+[infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
+[Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PRODUCAO_FAST-EATS/actions)<br>
 
 Produção:<br>
 [Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
