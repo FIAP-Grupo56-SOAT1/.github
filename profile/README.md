@@ -6,6 +6,7 @@ Autenticacao:<br>
 
 [Lambda STS](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_STS_FAST-EATS/actions/workflows/build-and-deploy.yml)<br>
 [Lambda Autenticacao](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_AUTH_FAST-EATS/actions/workflows/build-and-deploy.yml)<br>
+[API Gateway](https://github.com/FIAP-Grupo56-SOAT1/INFRA_API_GATEWAY_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
 
 
 Pedido:<br>
@@ -22,6 +23,9 @@ Produção:<br>
 [Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
 [infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
 [Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PRODUCAO_FAST-EATS/actions)<br>
+
+
+
 
 
 <!--
