@@ -2,6 +2,12 @@ Documentação do projeto Fasteats SOAT1 grupo56
 
 Aplicações:
 
+Autenticacao:<br>
+
+[Lambda STS](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_STS_FAST-EATS/actions/workflows/build-and-deploy.yml)<br>
+[Lambda Autenticacao](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_AUTH_FAST-EATS/actions/workflows/build-and-deploy.yml)<br>
+
+
 Pedido:<br>
 [Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
 [infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
