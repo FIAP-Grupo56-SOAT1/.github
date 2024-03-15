@@ -1,5 +1,14 @@
 Documentação do projeto Fasteats SOAT1 grupo56
 
+Como utilizar:<br>
+1) Alterar as credenciais do github
+2) Alterar as credenciais STS na AWS
+3) Alterar a URL do EC2 nas credencias de Producao
+4) Executar os pipeline abaixo:
+   Infra das aplicações: Pedido, Pagamento, Produção
+
+Obs: Caso as credenciais foram recriadas ou as aplicações, atualizar todas as credenciais na AWS e URLs de NLB, RDS, EC2
+
 Aplicações:
 
 Autenticacao:<br>
