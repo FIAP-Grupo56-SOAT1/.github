@@ -1,6 +1,6 @@
 # Projeto Fast-Eats
 
-Este repositório contém a organização dos projetos do Grupo 56 da turma SOAT1 da pós-graduação em Arquitetura de Software da FIAP.
+Este repositório contém a organização dos projetos do Grupo 56 da turma SOAT1 da pós-graduação em Software Architecture da FIAP.
 
 ## Aplicações
 
