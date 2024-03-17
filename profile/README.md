@@ -1,49 +1,34 @@
-Documentação do projeto Fasteats SOAT1 grupo56
+# Projeto Fast-Eats
 
-Como utilizar:<br>
-1) Alterar as credenciais do github
-2) Alterar as credenciais STS na AWS
-3) Alterar a URL do EC2 nas credencias de Producao
-4) Executar os pipeline abaixo:
-   Infra das aplicações: Pedido, Pagamento, Produção
+Este repositório contém a organização dos projetos do Grupo 56 da turma SOAT1 da pós-graduação em Arquitetura de Software da FIAP.
 
-Obs: Caso as credenciais foram recriadas ou as aplicações, atualizar todas as credenciais na AWS e URLs de NLB, RDS, EC2
+## Aplicações
 
-Aplicações:
+### Autenticação
 
-Autenticacao:<br>
+- [Lambda STS](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_STS_FAST-EATS): Lambda responsável pelo serviço de Security Token Service.
+- [Lambda Autenticação](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_AUTH_FAST-EATS): Lambda responsável pelo serviço de autenticação.
+- [API Gateway](https://github.com/FIAP-Grupo56-SOAT1/INFRA_API_GATEWAY_FAST-EATS): API Gateway para gerenciar as requisições.
 
-[Lambda STS](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_STS_FAST-EATS/actions/workflows/build-and-deploy.yml)<br>
-[Lambda Autenticacao](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_AUTH_FAST-EATS/actions/workflows/build-and-deploy.yml)<br>
-[API Gateway](https://github.com/FIAP-Grupo56-SOAT1/INFRA_API_GATEWAY_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
+### Pedido
 
+- [Infra do Banco de Dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS): Infraestrutura do banco de dados para o serviço de pedidos.
+- [Infra da Aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS): Infraestrutura da aplicação de pedidos.
+- [Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PEDIDO_FAST-EATS): Microserviço responsável pelo serviço de pedidos.
 
-Pedido:<br>
-[Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PEDIDO_FAST-EATS/actions)<br>
+### Pagamento
 
-Pagamento:<br>
-[Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PAGAMENTO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_PAGAMENTO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PAGAMENTO_FAST-EATS/actions)<br>
+- [Infra do Banco de Dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PAGAMENTO_FAST-EATS): Infraestrutura do banco de dados para o serviço de pagamentos.
+- [Infra da Aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_PAGAMENTO_FAST-EATS): Infraestrutura da aplicação de pagamentos.
+- [Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PAGAMENTO_FAST-EATS): Microserviço responsável pelo serviço de pagamentos.
 
-Produção:<br>
-[Infra do banco de dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[infra da aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_PRODUCAO_FAST-EATS/actions/workflows/deploy-producao.yml)<br>
-[Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PRODUCAO_FAST-EATS/actions)<br>
+### Produção
 
+- [Infra do Banco de Dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_PRODUCAO_FAST-EATS): Infraestrutura do banco de dados para o ambiente de produção.
+- [Infra da Aplicação](https://github.com/FIAP-Grupo56-SOAT1/INFRA_ECS_PRODUCAO_FAST-EATS): Infraestrutura da aplicação para o ambiente de produção.
+- [Aplicação](https://github.com/FIAP-Grupo56-SOAT1/MICROSERV_PRODUCAO_FAST-EATS): Aplicação para o ambiente de produção.
 
+## Autores
 
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+| [<img src="https://avatars.githubusercontent.com/u/5077265?v=4" width=115><br><sub>Jairo Teles</sub>](https://github.com/hardtelles) | [<img src="https://avatars.githubusercontent.com/u/47258234?v=4" width=115><br><sub>Wesley Gomes</sub>](https://github.com/Wesley-Gomes) | [<img src="https://avatars.githubusercontent.com/u/9051956?v=4" width=115><br><sub>Wilian Penaforte</sub>](https://github.com/wilianpenaforte) |
+| :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
