@@ -1,6 +1,12 @@
 # Projeto Fast-Eats
 
-Este repositório contém a organização dos projetos do Grupo 56 da turma SOAT1 da pós-graduação em Software Architecture da FIAP.
+Bem-vindo ao repositório do Projeto Fast-Eats, onde organizamos os trabalhos do Grupo 56 da turma SOAT1 da pós-graduação em Arquitetura de Software da FIAP.
+
+## Entrega Fase 5
+
+Na Fase 5, optamos por implementar uma saga coreografada em nosso sistema de pedidos devido às suas diversas vantagens. A SAGA coreografada permite uma arquitetura distribuída e desacoplada, alinhando-se perfeitamente com a natureza dinâmica de nosso projeto. Cada microserviço é responsável por uma parte do processo de pedidos, como criação, processamento de pagamentos e produção, operando de forma independente para garantir flexibilidade e escalabilidade.
+
+Para acessar os documentos, vídeos e diagramas solicitados para a entrega da Fase 5, clique [aqui](https://1drv.ms/b/s!AumrZPBkIvJTh-xKmz8sLQ1C7LFX0w?e=fMqeec).
 
 ## Aplicações
 
@@ -32,3 +38,5 @@ Este repositório contém a organização dos projetos do Grupo 56 da turma SOAT
 
 | [<img src="https://avatars.githubusercontent.com/u/5077265?v=4" width=115><br><sub>Jairo Teles</sub>](https://github.com/hardtelles) | [<img src="https://avatars.githubusercontent.com/u/47258234?v=4" width=115><br><sub>Wesley Gomes</sub>](https://github.com/Wesley-Gomes) | [<img src="https://avatars.githubusercontent.com/u/9051956?v=4" width=115><br><sub>Wilian Penaforte</sub>](https://github.com/wilianpenaforte) |
 | :--------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------: |
+
+Este README fornece uma visão geral do Projeto Fast-Eats, suas entregas e componentes. Para mais detalhes sobre cada aplicação e infraestrutura, consulte os respectivos links fornecidos.
