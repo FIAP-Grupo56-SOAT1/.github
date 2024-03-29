@@ -16,6 +16,9 @@ Para acessar os documentos, vídeos e diagramas solicitados para a entrega da Fa
 - [Lambda Autenticação](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_AUTH_FAST-EATS): Lambda responsável pelo serviço de autenticação.
 - [API Gateway](https://github.com/FIAP-Grupo56-SOAT1/INFRA_API_GATEWAY_FAST-EATS): API Gateway para gerenciar as requisições.
 
+### Notificação
+- [Lambda Notificação](https://github.com/FIAP-Grupo56-SOAT1/LAMBDA_CLIENT_NOTIFICATION_FAST-EATS): Lambda responsável pela notificação para o cliente.
+
 ### Pedido
 
 - [Infra do Banco de Dados](https://github.com/FIAP-Grupo56-SOAT1/INFRA_DB_FAST-EATS): Infraestrutura do banco de dados para o serviço de pedidos.
