@@ -6,7 +6,7 @@ Bem-vindo ao repositório do Projeto Fast-Eats, onde organizamos os trabalhos do
 
 Na Fase 5, optamos por implementar uma saga coreografada em nosso sistema de pedidos devido às suas diversas vantagens. A SAGA coreografada permite uma arquitetura distribuída e desacoplada, alinhando-se perfeitamente com a natureza dinâmica de nosso projeto. Cada microserviço é responsável por uma parte do processo de pedidos, como criação, processamento de pagamentos e produção, operando de forma independente para garantir flexibilidade e escalabilidade.
 
-Para acessar os documentos, vídeos e diagramas solicitados para a entrega da Fase 5, clique [aqui](https://1drv.ms/f/s!AumrZPBkIvJTh-wMExB4rZn9OOpgaQ?e=gvuTgq).
+Para acessar os documentos, vídeos e diagramas solicitados para a entrega da Fase 5, clique [aqui](https://1drv.ms/b/s!AumrZPBkIvJTh-0-DJUH2lZ3-raZiQ?e=9wKJHB).
 
 ## Aplicações
 
